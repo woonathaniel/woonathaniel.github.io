@@ -1,0 +1,26 @@
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:300,200' rel='stylesheet' type='text/css'>
+<style>
+body {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  font-weight: 200;
+}
+</style>
+
+<header>
+  <a href="/" style="text-decoration:none";><div align="center"> <div class="logo">{% include icons/logo.html %}</div></div></a>
+<div style="font-family: 'Titillium Web', sans-serif;", align="center">
+
+  <nav class="site-nav">
+    <div class="trigger">
+      {% for page in site.pages %}
+        {% if page.title %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+
+
+</div>
+</header>
