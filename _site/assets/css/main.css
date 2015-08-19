@@ -227,11 +227,11 @@ body {
   -webkit-text-size-adjust: 100%; }
 
 header {
-  height: 165px;
+  height: 130px;
   background: #FFFFFF; }
   header .logo {
-    height: 120px;
-    width: 500px;
+    height: 90px;
+    width: 425px;
     background: #000100; }
   header nav a {
     margin: auto;
@@ -252,13 +252,13 @@ body {
 footer {
   background: white;
   position: relative;
-  height: 100px;
+  height: 55px;
   left: 0;
   right: 0;
   bottom: 0;
   width: 100%; }
   footer .socialmediaicons {
-    margin-top: 10px;
+    margin-top: 3px;
     height: 45px;
     width: 150px;
     background: white; }
@@ -275,8 +275,8 @@ footer {
       width: 40px; }
 
 .cycle-slideshow {
-  width: 1250px;
-  height: 765px;
+  width: 995px;
+  height: 617px;
   display: block;
   position: relative;
   margin: 0px auto; }
@@ -452,8 +452,8 @@ input[type="checkbox"]:checked ~ .grid {
   opacity: .125; }
 
 #background {
-  width: 1250px;
-  height: 765px;
+  width: 995px;
+  height: 617px;
   position: relative;
   left: 0px;
   top: 0px;
@@ -474,7 +474,7 @@ input[type="checkbox"]:checked ~ .grid {
   font-weight: bold;
   left: 100px;
   right: 100px;
-  top: 300px; }
+  top: 250px; }
 
 #texthead {
   z-index: 100;
@@ -483,4 +483,4 @@ input[type="checkbox"]:checked ~ .grid {
   font-size: 55px;
   font-weight: bold;
   left: 100px;
-  top: 220px; }
+  top: 180px; }
