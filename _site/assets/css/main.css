@@ -236,15 +236,14 @@ header {
   header nav a {
     margin: auto;
     display: inline-black;
-    margin: 55px;
+    margin: 40px;
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 0.35em;
     text-transform: uppercase;
     color: black; }
     header nav a:hover {
-      color: #4C0000;
-      font-weight: bold; }
+      color: #4C0000; }
 
 body {
   background: white; }
@@ -263,16 +262,16 @@ footer {
     width: 150px;
     background: white; }
     footer .socialmediaicons .instagram {
-      height: 40px;
-      width: 40px; }
+      height: 30px;
+      width: 30px; }
     footer .socialmediaicons .facebook {
       float: left;
-      height: 40px;
-      width: 40px; }
+      height: 30px;
+      width: 30px; }
     footer .socialmediaicons .mail {
       float: right;
-      height: 40px;
-      width: 40px; }
+      height: 30px;
+      width: 30px; }
 
 .cycle-slideshow {
   width: 995px;
