@@ -274,8 +274,8 @@ footer {
       width: 30px; }
 
 .cycle-slideshow {
-  width: 995px;
-  height: 617px;
+  width: 941px;
+  height: 590px;
   display: block;
   position: relative;
   margin: 0px auto; }
@@ -451,8 +451,8 @@ input[type="checkbox"]:checked ~ .grid {
   opacity: .125; }
 
 #background {
-  width: 995px;
-  height: 617px;
+  width: 941px;
+  height: 590px;
   position: relative;
   left: 0px;
   top: 0px;
