@@ -278,7 +278,8 @@ footer {
   height: 590px;
   display: block;
   position: relative;
-  margin: 0px auto; }
+  margin: 0px auto;
+  overflow: hidden; }
 
 .cycle-slideshow img {
   width: 100%;
